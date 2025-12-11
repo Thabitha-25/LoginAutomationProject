@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LOGIN AUTOMATION PROJECT - Selenium Java
 
 Automates the login functionality of https://the-internet.herokuapp.com/login using Selenium WebDriver, Java, CSV-based data-driven testing, and Page Object Model (POM). This is a plain Java project (no Maven, no TestNG).
@@ -158,3 +159,6 @@ login.clickLogin();
 - Reusable utility classes
 - Clean project structure
 - No external build tools required
+=======
+# LoginAutomationProject
+>>>>>>> branch 'main' of https://github.com/Thabitha-25/LoginAutomationProject.git
